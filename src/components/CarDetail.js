@@ -1,4 +1,3 @@
-// src/components/CarDetail.js
 import React from 'react';
 
 const CarDetail = ({ car }) => {
